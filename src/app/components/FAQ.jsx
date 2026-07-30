@@ -137,7 +137,7 @@ const FAQ = () => {
                   className="flex items-center justify-between w-full px-4 py-4 text-left"
                 >
 
-                  <h3 className="text-lg font-semibold">
+                  <h3 className="text-lg font-semibold text-black">
                     {faq.question}
                   </h3>
 
